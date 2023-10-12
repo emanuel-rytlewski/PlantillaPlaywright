@@ -1,4 +1,4 @@
-# fonselp-e2e-tests
+# Template
 
 <p align="center">
   <img src="images/FonselpImg.PNG" width="800" height="250"/>
