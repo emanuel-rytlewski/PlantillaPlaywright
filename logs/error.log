@@ -21,3 +21,6 @@
 {"level":"info","message":"Entering password: test123"}
 {"level":"info","message":"Click on the login button"}
 {"level":"info","message":"Retrieves the container of the contract card list"}
+{"level":"info","message":"Enters user name: usertest@test.com"}
+{"level":"info","message":"Click on next button"}
+{"level":"info","message":"Entering password: test123"}
