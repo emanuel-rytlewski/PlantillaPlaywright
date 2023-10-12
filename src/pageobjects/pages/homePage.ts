@@ -1,6 +1,6 @@
-import { env } from "../../../../load-env";
-import { URLBuilder } from "../../../utils/URLBuilder";
-import {basePage} from "../../base/basePage";
+import { env } from "../../../load-env";
+import { URLBuilder } from "../../utils/URLBuilder";
+import {basePage} from "../base/basePage";
 import {Locator, Page} from "@playwright/test";
 
 export class homePage extends basePage {
