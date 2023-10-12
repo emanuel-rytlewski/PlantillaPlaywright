@@ -1,5 +1,5 @@
 export const config = {
     dev: {
-        fonselp: 'https://dev.fonselp.org/',
+        fonselp: 'https://www.google.com/',
     }
 };

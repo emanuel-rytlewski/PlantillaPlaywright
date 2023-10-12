@@ -1,13 +1,13 @@
 import { test, expect } from '@playwright/test';
-import {loginPage} from "../pages/canned/pages/loginPage";
+import {homePage} from "../pages/canned/pages/homePage";
 
-test.describe('Demo Challenge Tests', () => {
+test.describe('Demo Tests', () => {
     test('Login', async ({ page }, testInfo) => {
         //Arrange
-        const login = new loginPage(page);
+        const home = new homePage(page);
     
         //Act
-        await login.navigateToLoginPage()
+        await home.navigateToLoginPage()
         
     });
 });
