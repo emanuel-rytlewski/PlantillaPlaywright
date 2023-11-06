@@ -1,5 +1,3 @@
-# Template
-
 Framework-tests is a TypeScript-based Playwright project that uses the Page Object Model to test swag labs page. This project currently serves as a proof of concept for automated testing using Playwright.
 
 ## 🛠️ Prerequisites
